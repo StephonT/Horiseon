@@ -4,7 +4,7 @@ I was asked by the company, Horiseon, to refactor code for their website. Horise
 
 # Horiseon's Acceptance Criteria
 
-GIVEN a webpage that meets accessibility standards
+GIVEN a webpage that meets accessibility standards <br />
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -20,7 +20,7 @@ THEN I find a concise, descriptive title
 
 In order to meet Horiseon's Acceptance Criteria, I completed the following steps:
 
-1. Added semantic HTML elements such as <header>, <nav>, <section>, <article>, <aside>, and <footer>. This will help the search engines and other user devices to determine the importance and context of web pages.
+1. Added semantic HTML elements such as header, nav, section, article, aside, and footer. This will help the search engines and other user devices to determine the importance and context of web pages.
 
 2. On the style sheet, I consolidated the CSS selectors and properties and organized them to follow semantic structure.
 
