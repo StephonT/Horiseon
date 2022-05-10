@@ -1,35 +1,25 @@
-# Horiseon Website Maintenance Page
+# Horiseon Social Solution Website Maintenance
 
-I was asked by the company, Horiseon, to refactor code for their website. Horiseon wanted codebase that follows accessibility standards so that their site is optimized for search engines.
+# Purpose
 
-# Horiseon's Acceptance Criteria
+Horiseon has an already deployed application whose code needs to be more organized, accessable, and have a reusable format without altering the layout of the page. The purpose of this project is to refactor the already established code to make the web application more accessible and organized. To meet these standards, please see the "Changes" section of this file.
 
-GIVEN a webpage that meets accessibility standards <br />
-WHEN I view the source code <br />
-THEN I find semantic HTML elements <br />
-WHEN I view the structure of the HTML elements <br />
-THEN I find that the elements follow a logical structure independent of styling and positioning <br />
-WHEN I view the icon and image elements <br />
-THEN I find accessible alt attributes <br />
-WHEN I view the heading attributes <br />
-THEN I find that they fall in sequential order <br />
-WHEN I view the title element <br />
-THEN I find a concise, descriptive title <br />
-
-# Refactoring Code
+# Changes
 
 In order to meet Horiseon's Acceptance Criteria, I completed the following steps:
 
-1. Added semantic HTML elements such as header, nav, section, article, aside, and footer. This will help the search engines and other user devices to determine the importance and context of web pages.
+1. I replaced div elements with more specific elements that is specific to the contents of the application page. For example, I replaced div with elements such as header, nav, main, aside, footer, etc. This will help the search engines and other user devices to determine the importance and context of this web page.
 
 2. On the style sheet, I consolidated the CSS selectors and properties and organized them to follow semantic structure.
 
 3. CSS and HTML files are properly commented.
 
-4. I added alt attributes to necessary image elements.
+4. I added alt attributes to appropriate image elements.
 
 5. I organized the heading attributes so that they fall in sequential order.
 
-6. Wrote a concise and descriptive title.
+6. Wrote a concise and descriptive title (Horiseon Social Solution Services).
 
 7. Made sure all links function propertly in the navigation in the header by adding id's which allows a "click" to go directly to that section.
+
+8. Updated CSS selectors in stylesheet to properly correspond with HTML classes and id.
