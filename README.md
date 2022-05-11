@@ -28,4 +28,4 @@ In order to meet Horiseon's Acceptance Criteria, I completed the following steps
 
 Click on the link to see the updated application: [Horiseon Social Solutions Site](https://stephont.github.io/Horiseon/)
 
-![Horiseon](assets/images/Horiseon-Site2.jpg)
+![Horiseon](https://user-images.githubusercontent.com/104699408/167833739-a2609ec4-12b3-43bf-9fc6-88d615eaeca5.png)
