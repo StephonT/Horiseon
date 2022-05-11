@@ -1,4 +1,5 @@
-/*Styling for page*/
+/*Styling for entire page*/
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,9 +9,11 @@
 body {
   background-color: #d9dcd6;
 }
-/*End of styling for page*/
+
+/*End of styling for entire page*/
 
 /*Styling header*/
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -47,6 +50,7 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
+
 /*End of styling navigation in the header*/
 
 /*Styling for hero image*/
@@ -95,9 +99,10 @@ a {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/*End of content section*/
+/*End of content styling*/
 
-/*Benefits*/
+/*Benefits styling*/
+
 .side-bar {
   margin-right: 20px;
   padding: 20px;
@@ -126,6 +131,8 @@ a {
 }
 
 /*End of benefits styling*/
+
+/*Footer styling*/
 
 .footer {
   padding: 30px;
